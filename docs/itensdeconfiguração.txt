@@ -1,0 +1,19 @@
+- Criação do escopo
+
+- Criação do Scrip
+
+- Planejamento do Sprint
+
+- Testes
+
+- Análise de Riscos
+
+- Diagrama de Classes
+
+- Diagrama de Entidade e Relacionamento
+
+- Reunião e resumo da reunião
+
+- Reunião com clientes
+
+- Implementação 
